@@ -1,5 +1,5 @@
 {
-  "name": "@mkz/waterline",
+  "name": "@mkz-service/waterline",
   "description": "An ORM for Node.js and the Sails framework",
   "version": "0.14.0",
   "homepage": "http://waterlinejs.org",
