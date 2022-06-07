@@ -1,7 +1,7 @@
 {
   "name": "@mkz-service/waterline",
   "description": "An ORM for Node.js and the Sails framework",
-  "version": "0.14.0",
+  "version": "0.14.1",
   "homepage": "http://waterlinejs.org",
   "publishConfig": {
     "registry": "https://nexus.mokooz.fr/repository/npm-private/"
